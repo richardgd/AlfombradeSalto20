@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1016654728195",
+    "firebase_url": "https://alfombrade-de-salto.firebaseio.com",
+    "project_id": "alfombrade-de-salto",
+    "storage_bucket": "alfombrade-de-salto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016654728195:android:585b0fee82376dc5",
+        "android_client_info": {
+          "package_name": "com.example.richardgonzalez.alfombradesalto20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016654728195-tb1hku47vnoiku2bhnivgbke1k0obppp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.richardgonzalez.alfombradesalto20",
+            "certificate_hash": "d6e00f5b8214b00ad248ec207b365c4e9a4a024f"
+          }
+        },
+        {
+          "client_id": "1016654728195-4mnuauo0p3fuhfql7cs83vceun0mkt0t.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1016654728195-4mnuauo0p3fuhfql7cs83vceun0mkt0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYNgASbSKGS1-5yojFukDuD8iDe7OVOl8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016654728195-4mnuauo0p3fuhfql7cs83vceun0mkt0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
